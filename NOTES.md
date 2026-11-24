@@ -1,0 +1,7 @@
+The judge wants, in order: a real 5-7-5 debugging haiku; a concrete fresh picture (a breakpoint, a log, a trace), not a vague claim about code; a last line that reframes the first two; no filler syllables; speech you can say in one breath. Funny, quiet, or bleak can win. Cleverness adds nothing. The first real difference decides, and a wide margin counts more than a hair.
+
+Thousands of rivals will look like: "works on my machine," a rubber duck, 3 a.m. coffee, a missing semicolon, "it was a typo," blossom or butterfly puns, one bug fixed and two appear, a null pointer. The strong cliché I bracketed against is still that night shift: "Three a.m. The bug / vanishes when I watch it / and returns at dawn."
+
+Angles that beat the flood: bisect landing on a blank line you wrote; a test that wants the bug so the fix goes red; the stack frame three above the line the trace names; the crash that waits until you stand, chair still warm; a breakpoint dot that never lights.
+
+Bracket, best five, both orders, first differing criterion: bisect beat the test (clearer object, harder last line, margin 3), the trace (fresher than the usual wrong-frame lesson, no spare coat, margin 3), the warm chair (that one is a familiar heisenbug, margin 4), and the dark breakpoint (the brief itself invites breakpoints, margin 3). All five beat the 3 a.m. cliché on freshness, the bisect by the widest gap (margin 4). The bisect won every pairing.
